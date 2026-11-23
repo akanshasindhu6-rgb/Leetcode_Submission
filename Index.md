@@ -8,6 +8,7 @@ All solved problems organized by pattern/category.
 - [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) - *Medium*
 
 ## Two Pointers
+- [Next Permutation](./LeetCode/Medium/Next%20Permutation) - *Medium*
 - [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) - *Easy*
 - [Sort Colors](./LeetCode/Medium/Sort%20Colors) - *Medium*
 - [3Sum](./LeetCode/Medium/3Sum) - *Medium*
