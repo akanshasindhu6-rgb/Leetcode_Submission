@@ -14,3 +14,6 @@ All solved problems organized by pattern/category.
 - [Sort Colors](./LeetCode/Medium/Sort%20Colors) - *Medium*
 - [3Sum](./LeetCode/Medium/3Sum) - *Medium*
 - [Two Sum II - Input Array Is Sorted](./LeetCode/Medium/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) - *Medium*
+
+## 1000
+- [Codeforces Problem](./Codeforces/Unknown/Codeforces%20Problem) - *Unknown*
