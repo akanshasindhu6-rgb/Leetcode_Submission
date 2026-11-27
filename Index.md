@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Longest Palindromic Substring](./LeetCode/Medium/Longest%20Palindromic%20Substring) - *Medium*
 - [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) - *Medium*
 - [Codeforces Problem](./Codeforces/Unknown/Codeforces%20Problem) - *Unknown*
 - [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) - *Medium*
